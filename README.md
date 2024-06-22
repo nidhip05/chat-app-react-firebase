@@ -15,7 +15,7 @@ The Realtime Chat Application is a responsive web application built with React f
   Leverages Firebase Realtime Database for storing and synchronizing chat messages in real time
 
 
-# Technologies Used
+## Technologies Used
 
  - ## Frontend
    React, Javascript
@@ -27,7 +27,7 @@ The Realtime Chat Application is a responsive web application built with React f
    Hosted on vercel for seamless deployment and scalability.
 
 
-# Usage
+## Usage
 
  - ## Clone the repository
    git clone https://github.com/nidhip05/chat-app-react-firebase.git
@@ -39,13 +39,13 @@ The Realtime Chat Application is a responsive web application built with React f
    http://localhost:3000 to view the Realtime Chat Application
 
 
-# Future Enhancements
+## Future Enhancements
 
  - Integration of additional features such as file sharing, emojis, or user presence indicators.
  - Implementation of user profiles and settings for personalized chat experiences.
 
 
-# Contributing
+## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your enhancements or bug fixes.
 
