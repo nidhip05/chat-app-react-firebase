@@ -38,7 +38,7 @@ The Realtime Chat Application is a responsive web application built with React f
  - ## Open your browser and navigate
    http://localhost:3000 to view the Realtime Chat Application
  - ## Live demo
-   Explore the live demo - chat-app-react-firebase-psi.vercel.app
+   Explore the live demo - https://chat-app-react-firebase-psi.vercel.app
 
 # Future Enhancements
 
