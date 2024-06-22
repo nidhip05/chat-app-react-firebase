@@ -3,7 +3,7 @@
 The Realtime Chat Application is a responsive web application built with React for the frontend, Tailwind CSS for styling, and Firebase for the backend. It enables users to engage in instant messaging with a seamless and intuitive user interface.
 
 
-# 🚀 Key Features: 
+# Key Features: 
 
 - ## Responsive Design
   Ensures optimal viewing and interaction across a wide range of devices, from smartphones to desktops
@@ -37,7 +37,8 @@ The Realtime Chat Application is a responsive web application built with React f
    npm start
  - ## Open your browser and navigate
    http://localhost:3000 to view the Realtime Chat Application
-
+ - ## Live demo
+   Explore the live demo - chat-app-react-firebase-psi.vercel.app
 
 # Future Enhancements
 
