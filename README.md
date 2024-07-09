@@ -1,6 +1,6 @@
 # Realtime Chat Application
 
-The Realtime Chat Application is a responsive web application built with React for the frontend, Tailwind CSS for styling, and Firebase for the backend. It enables users to engage in instant messaging with a seamless and intuitive user interface. This project was a personal project aimed at deepening my proficiency in React, JavaScript, and Firebase technologies.
+The Realtime Chat Application is a responsive web application built with React for the frontend, Tailwind CSS for styling, and Firebase for the backend. It enables users to engage in instant messaging with a seamless and intuitive user interface. This project was a personal project aimed at deepening my skills in React, JavaScript, and Firebase technologies.
 
 
 # Key Features
